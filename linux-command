@@ -1,0 +1,11 @@
+touch
+mkdir 
+ls
+ls -a
+cd
+cp
+mv
+greep
+--help
+man
+

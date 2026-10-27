@@ -1,0 +1,20 @@
+/ - main root directory
+root 
+home 
+mnt
+media
+var
+temp
+bin 
+boot 
+dev
+lib
+lib32
+etc
+usr
+opt
+run 
+proc
+sys
+srv
+sbin

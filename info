@@ -1,0 +1,10 @@
+how to install vs code 
+Download the installer from Download Visual Studio Code and run the .exe file to install it on Windows 10 or 11 (64-bit).
+
+Installation Steps
+
+1. Download the installer: Choose the User Installer (x64 for Intel/AMD or Arm64 for ARM) on the download page. It does not require administrator rights and installs under %LOCALAPPDATA%\Programs\Microsoft VS Code.
+2. Start setup: Open the downloaded VSCodeUserSetup-*.exe file, accept the license agreement, and click Next.
+3. Choose folder: Keep the default installation path and Start Menu folder, then click Next.
+4. Select additional tasks: Check options you want—such as creating a desktop icon, adding Open with Code to File Explorer context menus, and adding VS Code to your PATH.
+5. Install: Click Install, wait for it to finish, and click Finish to launch VS Code.
